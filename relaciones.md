@@ -157,6 +157,20 @@ Al comienzo le atraía demasiado pero bajó considerablemente cuando lo vió con
 Actualmente considera a Dean como su amigo, aunque también tuvo un leve crush con él por un momento, sobre todo cuando le decía que Glaze no era una buena opción para ella, lo cual le hacía creer que estaba enamorado de ella y eso la conquistaba. Nunca imaginó una historia romántica con él pero le parece un chico lindo y talentoso y que él podría tener a la chica que quisiera, sobre todo porque cree que Dean tiene buenos valores, lo cual es algo muy raro de encontrar en alguien.
 ### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
 
+#### ⚑ ERUO GAZINI
+
+| amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
+
+Sabe que es el alma duplicada de Durian y le hubiera gustado tener una historia de amor con él. Después de que volviera a ser un humano se acercó a él y busca pasar el mayor tiempo posible con él. 
+### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+#### ★ LIVIA ARZEN
+
+| amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
+
+No la conoce mucho, aunque ya sabe que Liv es su alma duplicada, pero no siente que tengan nada en común. 
+### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
 #### ★ RAY GREYHOUND
 
 | amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
@@ -169,4 +183,74 @@ Le gustaba pasar el tiempo con Dark y Ray en los juegos de realidad virtual furr
 | amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
 
 Emi fue su primer amiga con quien se pudo llevar bien cuando estaba enamorada de Bernard. Costella la considera casi parte de su familia desde que fantaseó con que Bernard y ella, la cuidarían como una hija, pero se dió cuenta de que eso no iba a poder ser posible. A pesar de eso la considera como su amiga y le cae bien su personalidad positiva y enérgica y cómo cambió para bien, y dejó las sectas y todo lo malo atrás para ser una mejor persona. Cree que fue Bernard el que la crió bien y que le inculcó todos esos valores y también por eso le cae bien Bernard. Nunca investigó mucho sobre lo que hacía Emi ni todas las cosas malas que hizo por ejemplo con Franci, Ray o Krauss y solo cree que Ray le tiene miedo porque le agobia su personalidad enérgica, pero no tiene idea de que Emi también era una acosadora. Si supiera que acosaba a Krauss la terminaría odiando. 
+### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+#### ✸ LARK LAVERNE
+
+| amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
+
+No entiende porque Lark se obsesionó con ella y le parece muy extraño que no haya buscado otra persona más. También le parece extraño que sea una de las pocas personas que no esté enamorado de Ume o que no esté interesado en ella. No entiende nada de lo que Lark hace ni sus motivaciones, pero comienza a creer que solo es un sádico y que tuvo la mala suerte de ser el primer objetivo de él y que no va a descansar hasta que ella se muera o hasta tenerla encerrada por siempre, torturandola. A pesar de no entenderlo le tiene aprecio porque todavía no está segura de los sentimientos de Lark y todavía ve una pequeña posibilidad de que esté enamorado de ella. 
+### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+#### ✸ BIANCA STEINHAUS
+
+| amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
+
+Le cae mal que sea una polígama como Tanis y no cree que lo justifique ser una serkei. Pero lo que más mal le cae es que le haya mentido por tanto tiempo a Ciever y que sea tan pajera por Leyva. Se enteró de todo después de haber estado con ella en el crucero y está traumada de no haber sido cuidadosa ni haber investigado sobre Bianca antes de haber tenido algo. No se siente orgullosa de haber tenido dos hijas con Bianca y prefiere no saber nada al respecto. 
+### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+#### ✸ VELAFI REIZER
+
+| amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
+
+Costella no confía nada en Velafi por la manera tan fácil en que pudo engañarla. De hecho le tiene miedo mucho más de lo que le teme a Awen o Lark. De hecho cree que Velafi si quisiera podría joderse a todos al mismo tiempo y que nadie se daría cuenta de que ella es la que está detrás de todo. A veces siente que solo es paranoia pero prefiere no pensar de esa manera para poder tomar todas las decisiones correctas y espera al menos que no lastime a sus seres queridos. 
+### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+#### ✸ UME SHIRAIWA
+
+| amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
+
+La odia porque se relacionó con todas las personas que le gustaron, porque es el amor imposible de ellos y porque no le parece una buena persona a pesar de que todos digan lo contrario. Para Costella, Ume es una mentirosa, manipuladora y polígama que sólo busca satisfacción sexual y que en realidad no tiene tanto amor como todos creen. No la asesina solo porque cree que terminaría convirtiéndose en una mártir. 
+### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+#### ✸ ODEL GRAF
+
+| amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
+
+Lo odió desde que lo vió con Awen, aunque ya le caía mal mucho antes cuando también tuvo algo con Bernard. Le da más asco que Armani, sobre todo porque acosa a todo el mundo y los que a ella le gustan como Krauss o Durian. A pesar de su odio por él, nunca buscó matarlo y tampoco le interesa. 
+### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+#### ✸ ARMANI
+
+| amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
+
+Desde que supo que acosaba a Dean y que andaba en una especie de relación con Glaze, le cayó mal. Le da mucho asco que acose a Dean y le recuerda a Odel a quien también odia mucho. Actualmente no está enterada de que Armani se murió. 
+### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+#### � REMI GALAHAD
+
+| amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
+
+No lo conoce demasiado y sólo lo recuerda como un chico asustadizo y cobarde. Le da un poco de risa su personalidad miedosa y no le importa mucho su pasado, ni que sea hijo de Ume y Krauss.
+### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+#### � MAITE DEMUTTI
+
+| amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
+
+No investigó mucho sobre Maite a pesar de que se la madre adoptiva de Durian ya que no cree que tenga un vínculo fuerte con él y lo poco que sabe es que tuvo una relación con Lezne, pero que fue abandonada y reemplazada por Devi. Pero no le da pena ya que pudo conocer a Coral que le parece una mejor persona que Lezne. No tienen ninguna opinión en particular sobre Maite más allá de que le parece una persona que se esfuerza por hacer las cosas bien. 
+### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+#### � FRANCI DEMUTTI
+
+| amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
+
+La conoce como la amiga de Izan, sabe que se llevan bien y aunque sea demasiado paranoica le cae bien. No investigó sobre ella aunque sea amiga de Izan ya que prefiere no entrometerse demasiado en la vida de su hijo a quien no crió en persona. 
+### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+#### � RANDAL DEMUTTI
+
+| amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
+
+Lo conoce como el novio de Gein, no sabe mucho más que eso de él y tampoco lo investigó. 
 ### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
