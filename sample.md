@@ -3,6 +3,6 @@
 <iframe src="https://docs.google.com/viewer?url=http://docs.google.com/fileview?id=1SLflU2VXO6-PkGvy6lS_JTqkvRaZViotZszMv24RO94&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
 
 
-<iframe src="https://drive.google.com/file/d/1SLflU2VXO6-PkGvy6lS_JTqkvRaZViotZszMv24RO94/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1SLflU2VXO6-PkGvy6lS_JTqkvRaZViotZszMv24RO94/preview" width="640" height="909"></iframe>
 
 ---lol
