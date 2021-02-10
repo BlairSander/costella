@@ -3,15 +3,13 @@ layout: default
 ---
 ## Ficha
 
-#### **✦ Nombre:** Costella Reizer
-#### **✦ Pronunciación:** Costela
-#### **✦ Significado:** Costella deriva del latín costa 'costado'. Su traducción del Catalán al Español es 'costilla'.
-#### **✦** Edad: 26 
-#### **✦** Especie: Serkei Lexvoay (Híbrido con ADN de Gijinka de pulpo, Mutante de araña y Alien Serkei).
-#### **✦** Género: Mujer
-#### **✦** Cumpleaños: 17 de Diciembre
-#### **✦** Zodíaco: Sagitario
-#### **✦** Lugar de Nacimiento: Blair
+#### **✦ Nombre:** Costella Reizer <br> **✦ Pronunciación:** Costela <br> **✦ Significado:** Costella deriva del latín costa 'costado'. Su traducción del Catalán al Español es 'costilla'.
+#### **✦ Edad:** 26 
+#### **✦ Especie:** Serkei Lexvoay (Híbrido con ADN de Gijinka de pulpo, Mutante de araña y Alien Serkei).
+#### **✦ Género:** Mujer
+#### **✦ Cumpleaños:** 17 de Diciembre
+#### **✦ Zodíaco:** Sagitario
+#### **✦ Lugar de Nacimiento:** Blair
 
 * * *
 
