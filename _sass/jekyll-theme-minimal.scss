@@ -97,8 +97,12 @@ dt {
   font-style:italic;
   display: list-item;
   margin-left: 1em;
-  content: '\00BB';
+  list-style:none;
 }
+}
+  dt::before {
+    content: "\00BB \0020";
+  }
 
 th {
   color:#444;
