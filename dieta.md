@@ -6,7 +6,7 @@ layout: default
 Es omnívora. Su hábito alimenticio se basa en dulces, azúcares, frutas, cereales, carne, yogures, leche y quesos. El tipo de comidas que usualmente consume son **los frutos rojos, las pastas con 4 quesos, helado y postres dulces.**
 
 
-|☕<br>DESAYUNO/MERIENDA <br> 
+| ☕<br>DESAYUNO/MERIENDA <br> 
 yogurt con copos y frutos rojos <br>
 ✔ Ensalada de frutas <br>
 ✔ Leche con cualquier postre dulce <br>
@@ -29,4 +29,4 @@ yogurt con copos y frutos rojos <br>
 
 |☕<br>DESAYUNO/MERIENDA | ♨<br>ALMUERZO/CENA | 
 |:------------------|:------------------|
-| yogurt con copos y frutos rojos <br>Ensalada de frutas <br>Leche con cualquier postre dulce | Bebida: batido de frutos rojos y leche condensada <br>Bebida: jugo de frutos rojos <br> Comida: Pizza de salsa de tomate y queso, sin cebolla | 
+| ✔ yogurt con copos y frutos rojos <br>✔ Ensalada de frutas <br>✔ Leche con cualquier postre dulce | ✔ Bebida: batido de frutos rojos y leche condensada <br>✔ Bebida: jugo de frutos rojos <br>✔  Comida: Pizza de salsa de tomate y queso, sin cebolla | 
