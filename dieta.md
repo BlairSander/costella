@@ -23,8 +23,7 @@ v Comida: Pastas con 4 quesos <br>
 v Postre: Torta helada/Helado <br>
 v Ensalada de brócoli <br>
 v Mariscos, Sushi, Caviar <br> 
-v Comidas con cebolla o ajo <br>
-| 
+v Comidas con cebolla o ajo | 
  
 ------------------
 
