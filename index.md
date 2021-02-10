@@ -58,6 +58,9 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
+
+| amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
+
 ### There's a horizontal rule below this.
 
 * * *
