@@ -3,12 +3,12 @@ layout: default
 ---
 ## Habilidades
 
-### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+* * *
 
 #### HABILIDADES FÍSICAS: 95%
 #### HABILIDADES MENTALES: 150%
 
-### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+* * *
 
 #### HABILIDADES EN COMBATE
 
@@ -23,7 +23,7 @@ layout: default
 <dd>Sabe usar escopetas al haber practicado junto a Herz y Bernard. Le gusta usar bates de acero como arma de combate cuerpo a cuerpo.</dd>
 </dl>
 
-### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+* * *
 
 #### HABILIDADES SOBRENATURALES
 
@@ -42,7 +42,7 @@ layout: default
 <dd>Sólo puede reproducirse en su forma “humana”, haciéndolo compatible con las diferentes especies (humanas, mutantes, etc.).</dd>
 </dl>
 
-### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+* * *
 
 #### HABILIDADES COMO BESTIA ACUÁTICA
 
