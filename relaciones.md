@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Relaciones
 
 ####⏏ - ▶ LOGAN TANKIAN
