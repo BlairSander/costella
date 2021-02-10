@@ -95,6 +95,54 @@ end
   - level 2 item
 - level 1 item
 
+
+
+
+### DIVISORES
+
+LINEAS
+<hr width="50%">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+<br>════════════════════════════════════════════════════
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+* * *
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+<br>▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+<br>▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+<br>▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+ADORNOS
+<br>ıllıllııllıllııllıllııllıllııllıllııllıllııllıllııllıllııllıllııllıllııllıllııllıllııllıllııllıllııllıllııllıllııllıllııllıllıllıllıllıllı
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+<br>▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱ 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+<br>⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅∙∘☽༓☾∘∙•⋅⋅⋅•⋅⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅⋅•⋅
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+<br>•·················•·················•·················•·················•·················•·················•·················•·················•
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+<br>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+<br>『•••••••••••••••••••••••••••••••••••••••••••••✎•••••••••••••••••••••••••••••••••••••••••••••』
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+<br>◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+<br>════════════════════════════════════════════════════
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+<br>═══════════════════════ ⋆★⋆ ═══════════════════════
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+<br>█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█ ✪ █▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█ 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+<br>•.•:•.•:•.•:•.•:•.•:•.•:•.•:•.•:•.•:•.•:•.•:•.•:•☾☼☽•:•.•:•.•:•.•:•.•:•.•:•.•:•.•:•.•:•.•:•.•:•.•:•.•
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+
+
+
+
+
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
