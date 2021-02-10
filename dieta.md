@@ -59,5 +59,4 @@ v   Comidas con cebolla o ajo
 
 |☕<br>DESAYUNO/MERIENDA | ♨<br>ALMUERZO/CENA | 
 |:------------------|:------------------|
-| yogurt con copos y frutos rojos <br>Ensalada de frutas <br>Leche con cualquier postre dulce
-| Bebida: batido de frutos rojos y leche condensada <br>Bebida: jugo de frutos rojos <br> Comida: Pizza de salsa de tomate y queso, sin cebolla | 
+| yogurt con copos y frutos rojos <br>Ensalada de frutas <br>Leche con cualquier postre dulce | Bebida: batido de frutos rojos y leche condensada <br>Bebida: jugo de frutos rojos <br> Comida: Pizza de salsa de tomate y queso, sin cebolla | 
