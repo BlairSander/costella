@@ -3,9 +3,9 @@ layout: default
 ---
 ## Ficha
 
-#### **✦** Nombre: Costella Reizer
-#### **✦** Pronunciación: Costela
-#### **✦** Significado: Costella deriva del latín costa 'costado'. Su traducción del Catalán al Español es 'costilla'.
+#### **✦ Nombre:** Costella Reizer
+#### **✦ Pronunciación:** Costela
+#### **✦ Significado:** Costella deriva del latín costa 'costado'. Su traducción del Catalán al Español es 'costilla'.
 #### **✦** Edad: 26 
 #### **✦** Especie: Serkei Lexvoay (Híbrido con ADN de Gijinka de pulpo, Mutante de araña y Alien Serkei).
 #### **✦** Género: Mujer
