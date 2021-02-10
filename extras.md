@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
-## Extras
+## Playlist
+gdfgfdgfdg
 
-Es omnívora. Su hábito
+## Salud General
+sdf
+
+## Formación Académica
+sdfsdf
+
+## Experiencia laboral
+sdfsdfdsf
+
+## Personalidad
+sdfsdf
