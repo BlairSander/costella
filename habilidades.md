@@ -13,7 +13,7 @@ layout: default
 #### HABILIDADES EN COMBATE
 
 <dl>
-<dt>Tipo de Combate</dt>
+<dt><li>Tipo de Combate </li></dt>
 <dd>Combate cuerpo a cuerpo y con armas.</dd>
 <dt>Experiencia de combate</dt>
 <dd>Entrenamientos personales y batallas contra otras serkeis en su pasado.</dd>
