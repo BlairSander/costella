@@ -13,6 +13,8 @@ layout: default
 **✦** Zodíaco: Sagitario
 **✦** Lugar de Nacimiento: Blair
 
+* * *
+
 ## Situación actual
 
 <dt>País actual</dt>  <dd>Midsommar</dd>
@@ -24,6 +26,8 @@ layout: default
 <dt>Medios de transporte</dt> 
 <dd>Sobrenatural: Transportación 
 Aéreo: Tabla voladora </dd>
+
+* * *
 
 ## Apariencia
 
