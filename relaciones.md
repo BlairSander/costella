@@ -22,7 +22,7 @@ No la conoce mucho en persona, pero sí investigó sobre ella. Sabe sobre el pas
 | amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
 
 No la conoce mucho en persona, pero sí investigó sobre ella. Sabe sobre el pasado de Lezne e incluso logró recopilar datos sobre los orígenes de Lezne, lo cual le sirvieron de investigación sobre sus propios genes. Cree que el instinto asesino y la mentalidad obsesiva provinieron de sus genes en relación a Lezne y siente que tienen mucho en común. Por otra parte, le cae mal la relación de Lezne con Devi y no cree que realmente sean compatibles ni que debieran estar juntas, sobre todo porque le cae mal Devi. 
-<br>════════════════════════════════════════════════════
+<br>▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
 #### ⏏ - ▶ LEZNE GRAM
 
 | amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
