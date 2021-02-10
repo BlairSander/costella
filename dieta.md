@@ -75,3 +75,12 @@ Es omnívora. Su hábito alimenticio se basa en dulces, azúcares, frutas, cerea
 *   Bebida: jugo de frutos rojos
 *   Comida: Pizza de salsa de tomate y queso, sin cebolla
 | 
+
+
+ 
+------------------
+
+|☕<br>DESAYUNO/MERIENDA | ♨<br>ALMUERZO/CENA | 
+|:------------------|:------------------|
+| yogurt con copos y frutos rojos <br>Ensalada de frutas <br>Leche con cualquier postre dulce
+| Bebida: batido de frutos rojos y leche condensada <br>Bebida: jugo de frutos rojos <br> Comida: Pizza de salsa de tomate y queso, sin cebolla | 
