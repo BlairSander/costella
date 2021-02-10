@@ -7,11 +7,11 @@ layout: default
 
 #### ⏏ - ▶ LOGAN TANKIAN
 
-amor <br> **➊➋➌➍➎➏**➐➑➒➓  odio<br>**➊➋➌➍➎➏**➐➑➒➓  atraccion <br> **➊➋➌➍➎➏**➐➑➒➓
+| amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
 
 Antes de investigar sobre Logan, Devi les había advertido a ella y sus hermanas, sobre el lado oscuro de Logan. Una vez en Blair Costella pudo confirmar lo que le habían comentado, por lo que en lo posible evitaría encontrarse con Logan. En parte le tiene miedo ya que también sabe sobre su poder y toda la experiencia que tiene como soldado. 
 
- <hr width="50%" size="9" align="center" color="#C72300" >
+ <hr width="50%" size="50" align="center" color="#C72300" >
  
  <hr noshade>
 
