@@ -12,7 +12,7 @@ layout: default
 Antes de investigar sobre Logan, Devi les había advertido a ella y sus hermanas, sobre el lado oscuro de Logan. Una vez en Blair Costella pudo confirmar lo que le habían comentado, por lo que en lo posible evitaría encontrarse con Logan. En parte le tiene miedo ya que también sabe sobre su poder y toda la experiencia que tiene como soldado. 
 
  <hr width="50%">
-lol
+
 <br>≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ 
 <br>◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
 <br>◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥
@@ -26,7 +26,7 @@ lol
 <br>▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣
 <br>◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆
 <br>════════════════════════════════════════════════════
-1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 3 4 5 6 7 8 9 1 2 3 4 5 
+lol
 <br>≡≡≡≡≡ ≡≡≡≡≡ ≡≡≡≡≡ ≡≡≡≡≡ ≡≡≡≡≡ ≡≡≡≡≡ ≡≡≡≡≡ ≡≡≡≡≡ ≡≡≡≡≡ ≡≡≡≡≡ ≡≡≡≡≡ ≡≡≡≡≡ 
 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 3 4 5 6 7 8 9 1 2 3 4 5 
 <br>•.•:•.•:•.•:•.•:•.•:•.•:•.•:•.•:•.•:•☾☼☽•:•.•:•.•:•.•:•.•:•.•:•.•:•.•:•.•:•.•
