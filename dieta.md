@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Dieta
+## Dieta
 
 Es omnívora. Su hábito alimenticio se basa en dulces, azúcares, frutas, cereales, carne, yogures, leche y quesos. El tipo de comidas que usualmente consume son **los frutos rojos, las pastas con 4 quesos, helado y postres dulces.**
 
