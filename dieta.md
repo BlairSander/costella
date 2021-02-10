@@ -8,22 +8,22 @@ Es omnívora. Su hábito alimenticio se basa en dulces, azúcares, frutas, cerea
 
 |☕<br>DESAYUNO/MERIENDA <br> 
 yogurt con copos y frutos rojos <br>
-v Ensalada de frutas <br>
-v Leche con cualquier postre dulce <br>
-v Submarino con tostados <br>
-v Facturas con café <br>
-v Arroz con leche <br>
-v Mate cocido <br>
-v Huevo frito con pan | ♨<br>ALMUERZO/CENA <br> 
-v Bebida: batido de frutos rojos y leche condensada <br>
-v Bebida: jugo de frutos rojos <br>
-v Comida: Pizza de salsa de tomate y queso, sin cebolla <br>
-v Comida: patas de pollo frito y papas fritas <br>
-v Comida: Pastas con 4 quesos <br>
-v Postre: Torta helada/Helado <br>
-v Ensalada de brócoli <br>
-v Mariscos, Sushi, Caviar <br> 
-v Comidas con cebolla o ajo | 
+✔ Ensalada de frutas <br>
+✔ Leche con cualquier postre dulce <br>
+✔ Submarino con tostados <br>
+✔ Facturas con café <br>
+✔ Arroz con leche <br>
+✘ Mate cocido <br>
+✘ Huevo frito con pan | ♨<br>ALMUERZO/CENA <br> 
+✔ Bebida: batido de frutos rojos y leche condensada <br>
+✔ Bebida: jugo de frutos rojos <br>
+✔ Comida: Pizza de salsa de tomate y queso, sin cebolla <br>
+✔ Comida: patas de pollo frito y papas fritas <br>
+✔ Comida: Pastas con 4 quesos <br>
+✔ Postre: Torta helada/Helado <br>
+✘ Ensalada de brócoli <br>
+✘ Mariscos, Sushi, Caviar <br> 
+✘ Comidas con cebolla o ajo | 
  
 ------------------
 
