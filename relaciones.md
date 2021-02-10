@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Relaciones
+## Relaciones
 ### ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
 #### ⏏ LOGAN TANKIAN
 
