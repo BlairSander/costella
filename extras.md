@@ -5,11 +5,11 @@ layout: default
 
 | Playlist |   | 
 |:----------------------|:------------------|
-| ► Numb  <br> <sub>_Meg Myers_ </sub> | 00:00 <br>&nbsp; |
-| ► Monster  <br> <sub>_Meg Myers_ </sub>  | 00:00 <br>&nbsp; |
-| ► Desire  <br> <sub>_Meg Myers_ </sub>  | 00:00 <br>&nbsp; |
-| ► Mon ombre  <br> <sub>_Clara Luciani_ </sub>| 00:00<br> &nbsp; |
-| ► Aishite, aishite, aishite  <br> <sub>_Kikuo_</sub> | 00:00 <br>&nbsp; |
+| ► Numb  <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>_Meg Myers_ </sub> | 00:00 <br>&nbsp; |
+| ► Monster  <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>_Meg Myers_ </sub>  | 00:00 <br>&nbsp; |
+| ► Desire  <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>_Meg Myers_ </sub>  | 00:00 <br>&nbsp; |
+| ► Mon ombre  <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>_Clara Luciani_ </sub>| 00:00<br> &nbsp; |
+| ► Aishite, aishite, aishite  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> <sub>_Kikuo_</sub> | 00:00 <br>&nbsp; |
 
 
 
