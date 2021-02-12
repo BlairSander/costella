@@ -67,6 +67,15 @@ end
 | ok           | good `zoute` drop | yumm  |
 
 
+ROPAS
+| ESTILO FAVORITO<br>➊▫➋▫➌▫➍▫➎| &nbsp;         |&nbsp; |
+|:-------------|:------------------|:------|
+|Faldas tableadas cortas, buzos con capucha e impresiones de cosas adorables, remeras con impresiones de cosas adorables, zapatillas. Camperas con cierre y de estilo universitario.| [➊](URL) CASUAL | [➊](URL) PIJAMA  |
+| &nbsp; | [➊](URL) ELEGANTE   | [➊](URL) BAÑADOR   |
+| &nbsp; | [➊](URL) INVIERNO  | [➊](URL) GIMNASIA |
+| &nbsp; | [➊](URL) INCÓGNITO | [➊](URL) CAZA  |
+
+
 | amor <br> **➊➋➌➍➎➏**➐➑➒➓ | odio<br>**➊➋➌➍➎➏**➐➑➒➓ | atraccion <br> **➊➋➌➍➎➏**➐➑➒➓  |
 
 ### There's a horizontal rule below this.
