@@ -16,7 +16,8 @@ layout: default
 ## Salud General
 <dt>Trastorno Obsesivo Compulsivo de amores</dt> <dd>Sin tratamiento.
 El amor obsesivo-compulsivo trata de un tipo concreto de trastorno obsesivo compulsivo en el que la persona siente una forma extrema de amor romántico donde los sentimientos característicos de un enamoramiento se vuelven más intensos. La persona siente una gran necesidad de poseer y dominar.
-Esta patología no es única y exclusiva de quienes han sostenido o tienen una relación, también lo padecen personas que se obsesionan con otros/as que ni siquiera conocen, les basta con solo haber tenido un fugaz contacto para obsesionarse con ese/a individuo.<br><br>Síntomas y/o comportamientos:</dd>
+Esta patología no es única y exclusiva de quienes han sostenido o tienen una relación, también lo padecen personas que se obsesionan con otros/as que ni siquiera conocen, les basta con solo haber tenido un fugaz contacto para obsesionarse con ese/a individuo.</dd>
+- Síntomas y/o comportamientos:
   - Conductas similares a quien padece TOC, como pensar obsesiva e intensamente en el sujeto.
   - La necesidad apremiante de reciprocidad.
   - Cambios de humor dependientes a la reciprocidad.
