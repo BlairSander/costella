@@ -2,24 +2,14 @@
 layout: default
 ---
 ## Playlist
-► Numb  			00:00
-Meg Myers
-► Monster  			00:00
-Meg Myers
-► Desire 			00:00
-Meg Myers
-► Mon ombre			00:00
-Clara Luciani
-► Aishite, aishite, aishite	00:00
-Kikuo
 
 | Playlist |   | 
 |:----------------------|:------------------|
-| ► Numb  <br> _Meg Myers_ | 00:00 <br> |
-| ► Monster  <br> _Meg Myers_ | 00:00 <br> |
-| ► Desire  <br> _Meg Myers_ | 00:00 <br> |
-| ► Mon ombre  <br> _Clara Luciani_ | 00:00<br>  |
-| ► Aishite, aishite, aishite  <br> _Kikuo_| 00:00 <br> |
+| ► Numb  <br> _Meg Myers_ | 00:00 <br>&nbsp; |
+| ► Monster  <br> _Meg Myers_ | 00:00 <br>&nbsp; |
+| ► Desire  <br> _Meg Myers_ | 00:00 <br>&nbsp; |
+| ► Mon ombre  <br> _Clara Luciani_ | 00:00<br> &nbsp; |
+| ► Aishite, aishite, aishite  <br> _Kikuo_| 00:00 <br>&nbsp; |
 
 
 
