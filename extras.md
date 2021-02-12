@@ -13,6 +13,16 @@ Clara Luciani
 ► Aishite, aishite, aishite	00:00
 Kikuo
 
+| Playlist |   | 
+|:----------------------|:------------------|
+| ► Numb  <br> _Meg Myers_ | 00:00 <br> |
+| ► Monster  <br> _Meg Myers_ | 00:00 <br> |
+| ► Desire  <br> _Meg Myers_ | 00:00 <br> |
+| ► Mon ombre  <br> _Clara Luciani_ | 00:00<br>  |
+| ► Aishite, aishite, aishite  <br> _Kikuo_| 00:00 <br> |
+
+
+
 ## Salud General
 <dt>Trastorno Obsesivo Compulsivo de amores</dt> <dd>Sin tratamiento.
 El amor obsesivo-compulsivo trata de un tipo concreto de trastorno obsesivo compulsivo en el que la persona siente una forma extrema de amor romántico donde los sentimientos característicos de un enamoramiento se vuelven más intensos. La persona siente una gran necesidad de poseer y dominar.
