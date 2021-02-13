@@ -1,5 +1,6 @@
 |     Part    | HTML COLOR         | Part |
 |:-------------|:------------------|:------|
+
 <table border="0" cellpadding="0" cellspacing="0" width="50%">
 <tr>
 <td width="30%"> piel </td>
