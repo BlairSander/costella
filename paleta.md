@@ -1,7 +1,8 @@
-<p style="background:violet; color:white; font-weight:bold; padding:15px;">Tu primera caja de colores con espacios internos</p>
+<p style="background:#fcdab6; color:white; font-weight:bold; padding:15px;">PIEL #fcdab6 </p>
 
 
-<p style="background: #bdf0fa; color: #0c92ac; font-weight: bold; padding: 15px; border: 2px solid #abecf9; border-radius: 6px;">Tu caja de color azul y cantos redondeados</p>
+<p style="background: #fcdab6; color: #0c92ac; font-weight: bold; padding: 15px; border: 2px solid #abecf9; border-radius: 6px;">PIEL #fcdab6 </p>
+
 
 <table border="1" cellpadding="0" cellspacing="0" width="50%">
 <tr>
