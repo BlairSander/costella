@@ -1,7 +1,7 @@
  efe
  
  <div >
-  <table border="0" cellpadding="0" cellspacing="0" width="50%">
+  <table border="0" cellpadding="0" cellspacing="0" width="50%" style="text-align:center">
 <tr>
 <td style="text-align:center" width="30%">𝙋𝙖𝙧𝙩𝙚 </td>
 <td colspan="4" style="text-align:center">𝙃𝙏𝙈𝙇 𝘾𝙊𝙇𝙊𝙍</td>
