@@ -4,7 +4,7 @@
 <p style="background: #fcdab6; color: #0c92ac; font-weight: bold; padding: 15px; border: 2px solid #abecf9; border-radius: 6px;">PIEL #fcdab6 </p>
 
 
-<table border="1" cellpadding="0" cellspacing="0" width="50%">
+<table border="0" cellpadding="0" cellspacing="0" width="50%">
 <tr>
 <td width="20%"> piel </td>
 <td width="20%">pelo</td>
