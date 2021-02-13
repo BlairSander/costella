@@ -1,8 +1,6 @@
 <p style="background:#fcdab6; color:white; font-weight:bold; padding:15px;">PIEL #fcdab6 </p> 
 <p style="background:#fcff00; color:white; font-weight:bold; padding:15px;">OJOS #fcff00 </p>
 
-<p style="background: #fcdab6; color: #fff; font-weight: bold; padding: 15px; border: 2px solid #fff; border-radius: 6px;">PIEL #fcdab6 </p>
-<p style="background: #fcff00; color: #fff; font-weight: bold; padding: 15px; border: 2px solid #fff; border-radius: 6px;">OJOS #fcff00 </p>
 
 <table border="0" cellpadding="0" cellspacing="0" width="50%">
 <tr>
@@ -23,3 +21,5 @@
 </tr>
 </table>
 
+<p style="background: #fcdab6; color: #fff; font-weight: bold; padding: 15px; border: 2px solid #fff; border-radius: 6px;">PIEL #fcdab6 </p>
+<p style="background: #fcff00; color: #fff; font-weight: bold; padding: 15px; border: 2px solid #fff; border-radius: 6px;">OJOS #fcff00 </p>
