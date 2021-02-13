@@ -1,7 +1,7 @@
  <div >
   <table border="0" cellpadding="0" cellspacing="0" width="50%">
 <tr>
-<td width="30%" style="text-align:center"> 𝙋𝙖𝙧𝙩𝙚 </td>
+<td align="center" width="30%"> 𝙋𝙖𝙧𝙩𝙚 </td>
 <td colspan="4" style="text-align:center"> 𝙃𝙏𝙈𝙇 𝘾𝙊𝙇𝙊𝙍</td>
 <td width="30%" style="text-align:center"> 𝙋𝙖𝙧𝙩𝙚 </td>
 </tr>
