@@ -14,12 +14,12 @@
 <td width="30%" >sombra piel </td>
 </tr>
 <tr>
-<td width="20%"> pelo </td>
-<td width="20%">#fcdab6</td>
+<td width="30%"> pelo </td>
+<td width="10%">#fcdab6</td>
 <td width="10%" bgcolor="#fcdab6"></td>
 <td width="10%" bgcolor="#fcff00"></td>
-<td width="20%">#fcff00</td>
-<td width="20%" >sombra pelo </td>
+<td width="10%">#fcff00</td>
+<td width="30%" >sombra pelo </td>
 </tr>
 </table>
 
