@@ -5,7 +5,7 @@
 <tr>
 <td style="text-align:center" width="30%">𝙋𝙖𝙧𝙩𝙚 </td>
 <td colspan="4" style="text-align:center">𝙃𝙏𝙈𝙇 𝘾𝙊𝙇𝙊𝙍</td>
-<td align="center" width="30%">𝙋𝙖𝙧𝙩𝙚 </td>
+<td style="text-align:center" width="30%">𝙋𝙖𝙧𝙩𝙚 </td>
 </tr>
 <tr>
 <td width="30%"> piel </td>
