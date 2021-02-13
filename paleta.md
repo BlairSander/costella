@@ -1,7 +1,7 @@
 <p style="background:#fcdab6; color:white; font-weight:bold; padding:15px;">PIEL #fcdab6 </p>
 
 
-<p style="background: #fcdab6; color: #0c92ac; font-weight: bold; padding: 15px; border: 2px solid #000; border-radius: 6px;">PIEL #fcdab6 </p>
+<p style="background: #fcdab6; color: #fff; font-weight: bold; padding: 15px; border: 2px solid #fff; border-radius: 6px;">PIEL #fcdab6 </p>
 
 
 <table border="0" cellpadding="0" cellspacing="0" width="50%">
