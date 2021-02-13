@@ -1,8 +1,9 @@
-<table border="0" cellpadding="0" cellspacing="0" width="50%">
+ <div style="text-align:center;">
+  <table border="0" cellpadding="0" cellspacing="0" width="50%">
 <tr>
-<td width="30%"; div style="text-align:center;"> 𝙋𝙖𝙧𝙩𝙚 </td>
-<td colspan="4"; div style="text-align:center;" > 𝙃𝙏𝙈𝙇 𝘾𝙊𝙇𝙊𝙍</td>
-<td width="30%"; align='center' > 𝙋𝙖𝙧𝙩𝙚 </td>
+<td width="30%"> 𝙋𝙖𝙧𝙩𝙚 </td>
+<td colspan="4"> 𝙃𝙏𝙈𝙇 𝘾𝙊𝙇𝙊𝙍</td>
+<td width="30%"> 𝙋𝙖𝙧𝙩𝙚 </td>
 </tr>
 <tr>
 <td width="30%"> piel </td>
@@ -45,3 +46,4 @@
 <td width="30%" >pupilas </td>
 </tr>
 </table>
+</div>
